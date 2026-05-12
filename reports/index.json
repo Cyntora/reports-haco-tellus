@@ -1,0 +1,11 @@
+{
+  "client_id": "haco-tellus",
+  "client_display_name": "Haco Tellus",
+  "reports": [
+    {
+      "file": "2026-04.html",
+      "month": "2026-04",
+      "label": "April 2026"
+    }
+  ]
+}
